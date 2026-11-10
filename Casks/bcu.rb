@@ -1,6 +1,6 @@
 cask "bcu" do
-  version "0.7.4"
-  sha256 "b18f8710cb7729544ca5db0490541dbb3cdf75bc8f0ceef0586cb70c3026ecfb"
+  version "0.8.0"
+  sha256 "4c85c1aa554ce818f31440199339a3c62103bd78b2f1f2997d25f847f78d543b"
 
   url "https://github.com/Suge8/better-computer-use/releases/download/v#{version}/bcu-#{version}.zip"
   name "bcu"
